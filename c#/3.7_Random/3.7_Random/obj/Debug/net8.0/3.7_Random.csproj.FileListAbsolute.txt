@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/bin/Debug/net8.0/3.7_Random
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/bin/Debug/net8.0/3.7_Random.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/bin/Debug/net8.0/3.7_Random.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/bin/Debug/net8.0/3.7_Random.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/bin/Debug/net8.0/3.7_Random.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/3.7_Random.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/3.7_Random.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/3.7_Random.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/3.7_Random.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/3.7_Random.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/3.7_Random.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/refint/3.7_Random.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/3.7_Random.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/3.7_Random.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.7_Random/3.7_Random/obj/Debug/net8.0/ref/3.7_Random.dll

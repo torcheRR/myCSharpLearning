@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/bin/Debug/net8.0/3.3_Operators
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/bin/Debug/net8.0/3.3_Operators.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/bin/Debug/net8.0/3.3_Operators.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/bin/Debug/net8.0/3.3_Operators.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/bin/Debug/net8.0/3.3_Operators.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/3.3_Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/3.3_Operators.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/3.3_Operators.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/3.3_Operators.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/3.3_Operators.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/3.3_Operators.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/refint/3.3_Operators.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/3.3_Operators.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/3.3_Operators.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/3.3_Operators/3.3_Operators/obj/Debug/net8.0/ref/3.3_Operators.dll
