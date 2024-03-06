@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/bin/Debug/net8.0/2.5_Arrays
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/bin/Debug/net8.0/2.5_Arrays.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/bin/Debug/net8.0/2.5_Arrays.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/bin/Debug/net8.0/2.5_Arrays.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/bin/Debug/net8.0/2.5_Arrays.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/2.5_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/2.5_Arrays.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/2.5_Arrays.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/2.5_Arrays.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/2.5_Arrays.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/2.5_Arrays.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/refint/2.5_Arrays.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/2.5_Arrays.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/2.5_Arrays.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/2.5_Arrays/obj/Debug/net8.0/ref/2.5_Arrays.dll
