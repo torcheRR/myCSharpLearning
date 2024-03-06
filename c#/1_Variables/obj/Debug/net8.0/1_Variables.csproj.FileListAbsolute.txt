@@ -1,0 +1,14 @@
+/Users/berkayocer/Desktop/c#/1_Variables/bin/Debug/net8.0/1_Variables
+/Users/berkayocer/Desktop/c#/1_Variables/bin/Debug/net8.0/1_Variables.deps.json
+/Users/berkayocer/Desktop/c#/1_Variables/bin/Debug/net8.0/1_Variables.runtimeconfig.json
+/Users/berkayocer/Desktop/c#/1_Variables/bin/Debug/net8.0/1_Variables.dll
+/Users/berkayocer/Desktop/c#/1_Variables/bin/Debug/net8.0/1_Variables.pdb
+/Users/berkayocer/Desktop/c#/1_Variables/obj/Debug/net8.0/1_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/c#/1_Variables/obj/Debug/net8.0/1_Variables.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/c#/1_Variables/obj/Debug/net8.0/1_Variables.AssemblyInfo.cs
+/Users/berkayocer/Desktop/c#/1_Variables/obj/Debug/net8.0/1_Variables.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/c#/1_Variables/obj/Debug/net8.0/1_Variables.dll
+/Users/berkayocer/Desktop/c#/1_Variables/obj/Debug/net8.0/refint/1_Variables.dll
+/Users/berkayocer/Desktop/c#/1_Variables/obj/Debug/net8.0/1_Variables.pdb
+/Users/berkayocer/Desktop/c#/1_Variables/obj/Debug/net8.0/1_Variables.genruntimeconfig.cache
+/Users/berkayocer/Desktop/c#/1_Variables/obj/Debug/net8.0/ref/1_Variables.dll

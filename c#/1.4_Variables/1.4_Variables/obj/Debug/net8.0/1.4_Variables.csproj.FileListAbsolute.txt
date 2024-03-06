@@ -1,0 +1,14 @@
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/bin/Debug/net8.0/1.4_Variables
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/bin/Debug/net8.0/1.4_Variables.deps.json
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/bin/Debug/net8.0/1.4_Variables.runtimeconfig.json
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/bin/Debug/net8.0/1.4_Variables.dll
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/bin/Debug/net8.0/1.4_Variables.pdb
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/obj/Debug/net8.0/1.4_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/obj/Debug/net8.0/1.4_Variables.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/obj/Debug/net8.0/1.4_Variables.AssemblyInfo.cs
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/obj/Debug/net8.0/1.4_Variables.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/obj/Debug/net8.0/1.4_Variables.dll
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/obj/Debug/net8.0/refint/1.4_Variables.dll
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/obj/Debug/net8.0/1.4_Variables.pdb
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/obj/Debug/net8.0/1.4_Variables.genruntimeconfig.cache
+/Users/berkayocer/Desktop/c#/1.4_Variables/1.4_Variables/obj/Debug/net8.0/ref/1.4_Variables.dll

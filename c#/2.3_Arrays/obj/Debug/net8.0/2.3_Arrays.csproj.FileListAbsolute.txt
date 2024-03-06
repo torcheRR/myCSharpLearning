@@ -1,0 +1,14 @@
+/Users/berkayocer/Desktop/c#/2.3_Arrays/bin/Debug/net8.0/2.3_Arrays
+/Users/berkayocer/Desktop/c#/2.3_Arrays/bin/Debug/net8.0/2.3_Arrays.deps.json
+/Users/berkayocer/Desktop/c#/2.3_Arrays/bin/Debug/net8.0/2.3_Arrays.runtimeconfig.json
+/Users/berkayocer/Desktop/c#/2.3_Arrays/bin/Debug/net8.0/2.3_Arrays.dll
+/Users/berkayocer/Desktop/c#/2.3_Arrays/bin/Debug/net8.0/2.3_Arrays.pdb
+/Users/berkayocer/Desktop/c#/2.3_Arrays/obj/Debug/net8.0/2.3_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/c#/2.3_Arrays/obj/Debug/net8.0/2.3_Arrays.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/c#/2.3_Arrays/obj/Debug/net8.0/2.3_Arrays.AssemblyInfo.cs
+/Users/berkayocer/Desktop/c#/2.3_Arrays/obj/Debug/net8.0/2.3_Arrays.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/c#/2.3_Arrays/obj/Debug/net8.0/2.3_Arrays.dll
+/Users/berkayocer/Desktop/c#/2.3_Arrays/obj/Debug/net8.0/refint/2.3_Arrays.dll
+/Users/berkayocer/Desktop/c#/2.3_Arrays/obj/Debug/net8.0/2.3_Arrays.pdb
+/Users/berkayocer/Desktop/c#/2.3_Arrays/obj/Debug/net8.0/2.3_Arrays.genruntimeconfig.cache
+/Users/berkayocer/Desktop/c#/2.3_Arrays/obj/Debug/net8.0/ref/2.3_Arrays.dll

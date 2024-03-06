@@ -1,0 +1,14 @@
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/bin/Debug/net8.0/2.4_MultiDimensionalArrays
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/bin/Debug/net8.0/2.4_MultiDimensionalArrays.deps.json
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/bin/Debug/net8.0/2.4_MultiDimensionalArrays.runtimeconfig.json
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/bin/Debug/net8.0/2.4_MultiDimensionalArrays.dll
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/bin/Debug/net8.0/2.4_MultiDimensionalArrays.pdb
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/obj/Debug/net8.0/2.4_MultiDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/obj/Debug/net8.0/2.4_MultiDimensionalArrays.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/obj/Debug/net8.0/2.4_MultiDimensionalArrays.AssemblyInfo.cs
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/obj/Debug/net8.0/2.4_MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/obj/Debug/net8.0/2.4_MultiDimensionalArrays.dll
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/obj/Debug/net8.0/refint/2.4_MultiDimensionalArrays.dll
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/obj/Debug/net8.0/2.4_MultiDimensionalArrays.pdb
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/obj/Debug/net8.0/2.4_MultiDimensionalArrays.genruntimeconfig.cache
+/Users/berkayocer/Desktop/c#/2.4_MultiDimensionalArrays/obj/Debug/net8.0/ref/2.4_MultiDimensionalArrays.dll

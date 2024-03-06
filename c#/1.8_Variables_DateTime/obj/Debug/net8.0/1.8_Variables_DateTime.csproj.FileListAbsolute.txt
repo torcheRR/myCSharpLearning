@@ -1,0 +1,14 @@
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/bin/Debug/net8.0/1.8_Variables_DateTime
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/bin/Debug/net8.0/1.8_Variables_DateTime.deps.json
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/bin/Debug/net8.0/1.8_Variables_DateTime.runtimeconfig.json
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/bin/Debug/net8.0/1.8_Variables_DateTime.dll
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/bin/Debug/net8.0/1.8_Variables_DateTime.pdb
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/obj/Debug/net8.0/1.8_Variables_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/obj/Debug/net8.0/1.8_Variables_DateTime.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/obj/Debug/net8.0/1.8_Variables_DateTime.AssemblyInfo.cs
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/obj/Debug/net8.0/1.8_Variables_DateTime.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/obj/Debug/net8.0/1.8_Variables_DateTime.dll
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/obj/Debug/net8.0/refint/1.8_Variables_DateTime.dll
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/obj/Debug/net8.0/1.8_Variables_DateTime.pdb
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/obj/Debug/net8.0/1.8_Variables_DateTime.genruntimeconfig.cache
+/Users/berkayocer/Desktop/c#/1.8_Variables_DateTime/obj/Debug/net8.0/ref/1.8_Variables_DateTime.dll
