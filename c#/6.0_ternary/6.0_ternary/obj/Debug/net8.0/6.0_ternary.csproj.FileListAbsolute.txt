@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/bin/Debug/net8.0/6.0_ternary
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/bin/Debug/net8.0/6.0_ternary.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/bin/Debug/net8.0/6.0_ternary.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/bin/Debug/net8.0/6.0_ternary.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/bin/Debug/net8.0/6.0_ternary.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/6.0_ternary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/6.0_ternary.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/6.0_ternary.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/6.0_ternary.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/6.0_ternary.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/6.0_ternary.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/refint/6.0_ternary.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/6.0_ternary.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/6.0_ternary.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/6.0_ternary/6.0_ternary/obj/Debug/net8.0/ref/6.0_ternary.dll

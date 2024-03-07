@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/bin/Debug/net8.0/5.0_Switch_Case
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/bin/Debug/net8.0/5.0_Switch_Case.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/bin/Debug/net8.0/5.0_Switch_Case.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/bin/Debug/net8.0/5.0_Switch_Case.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/bin/Debug/net8.0/5.0_Switch_Case.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/5.0_Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/5.0_Switch_Case.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/5.0_Switch_Case.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/5.0_Switch_Case.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/5.0_Switch_Case.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/5.0_Switch_Case.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/refint/5.0_Switch_Case.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/5.0_Switch_Case.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/5.0_Switch_Case.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/5.0_Switch_Case/5.0_Switch_Case/obj/Debug/net8.0/ref/5.0_Switch_Case.dll

@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/bin/Debug/net8.0/4.3_if_else
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/bin/Debug/net8.0/4.3_if_else.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/bin/Debug/net8.0/4.3_if_else.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/bin/Debug/net8.0/4.3_if_else.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/bin/Debug/net8.0/4.3_if_else.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/4.3_if_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/4.3_if_else.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/4.3_if_else.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/4.3_if_else.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/4.3_if_else.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/4.3_if_else.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/refint/4.3_if_else.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/4.3_if_else.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/4.3_if_else.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/4.3_if_else/4.3_if_else/obj/Debug/net8.0/ref/4.3_if_else.dll

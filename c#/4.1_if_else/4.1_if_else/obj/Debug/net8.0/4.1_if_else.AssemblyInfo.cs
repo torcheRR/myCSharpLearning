@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("3.7_Random")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("4.1_if_else")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+746c49a0055e7d0618e641ccb699f70635816b3e")]
-[assembly: System.Reflection.AssemblyProductAttribute("3.7_Random")]
-[assembly: System.Reflection.AssemblyTitleAttribute("3.7_Random")]
+[assembly: System.Reflection.AssemblyProductAttribute("4.1_if_else")]
+[assembly: System.Reflection.AssemblyTitleAttribute("4.1_if_else")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
