@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/bin/Debug/net8.0/7.0_For
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/bin/Debug/net8.0/7.0_For.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/bin/Debug/net8.0/7.0_For.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/bin/Debug/net8.0/7.0_For.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/bin/Debug/net8.0/7.0_For.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/7.0_For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/7.0_For.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/7.0_For.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/7.0_For.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/7.0_For.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/7.0_For.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/refint/7.0_For.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/7.0_For.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/7.0_For.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.0_For/7.0_For/obj/Debug/net8.0/ref/7.0_For.dll
