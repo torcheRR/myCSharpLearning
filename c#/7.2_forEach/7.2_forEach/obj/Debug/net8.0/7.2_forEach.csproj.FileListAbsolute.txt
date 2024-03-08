@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/bin/Debug/net8.0/7.2_forEach
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/bin/Debug/net8.0/7.2_forEach.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/bin/Debug/net8.0/7.2_forEach.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/bin/Debug/net8.0/7.2_forEach.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/bin/Debug/net8.0/7.2_forEach.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/7.2_forEach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/7.2_forEach.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/7.2_forEach.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/7.2_forEach.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/7.2_forEach.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/7.2_forEach.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/refint/7.2_forEach.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/7.2_forEach.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/7.2_forEach.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/7.2_forEach/7.2_forEach/obj/Debug/net8.0/ref/7.2_forEach.dll

@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/bin/Debug/net8.0/8.2_doWhile
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/bin/Debug/net8.0/8.2_doWhile.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/bin/Debug/net8.0/8.2_doWhile.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/bin/Debug/net8.0/8.2_doWhile.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/bin/Debug/net8.0/8.2_doWhile.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/8.2_doWhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/8.2_doWhile.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/8.2_doWhile.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/8.2_doWhile.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/8.2_doWhile.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/8.2_doWhile.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/refint/8.2_doWhile.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/8.2_doWhile.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/8.2_doWhile.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/8.2_doWhile/8.2_doWhile/obj/Debug/net8.0/ref/8.2_doWhile.dll

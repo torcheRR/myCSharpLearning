@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/bin/Debug/net8.0/9.0_Break_Continue
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/bin/Debug/net8.0/9.0_Break_Continue.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/bin/Debug/net8.0/9.0_Break_Continue.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/bin/Debug/net8.0/9.0_Break_Continue.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/bin/Debug/net8.0/9.0_Break_Continue.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/9.0_Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/9.0_Break_Continue.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/9.0_Break_Continue.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/9.0_Break_Continue.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/9.0_Break_Continue.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/9.0_Break_Continue.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/refint/9.0_Break_Continue.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/9.0_Break_Continue.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/9.0_Break_Continue.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/9.0_Break_Continue/9.0_Break_Continue/obj/Debug/net8.0/ref/9.0_Break_Continue.dll
