@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/bin/Debug/net8.0/10.2_File
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/bin/Debug/net8.0/10.2_File.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/bin/Debug/net8.0/10.2_File.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/bin/Debug/net8.0/10.2_File.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/bin/Debug/net8.0/10.2_File.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/10.2_File.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/10.2_File.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/10.2_File.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/10.2_File.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/10.2_File.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/10.2_File.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/refint/10.2_File.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/10.2_File.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/10.2_File.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/10.2_File/obj/Debug/net8.0/ref/10.2_File.dll
