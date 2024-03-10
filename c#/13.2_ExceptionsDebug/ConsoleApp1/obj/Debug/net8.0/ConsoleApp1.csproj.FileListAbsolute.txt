@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/13.2_ExceptionsDebug/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
