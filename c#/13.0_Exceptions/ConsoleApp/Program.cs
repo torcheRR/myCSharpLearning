@@ -7,7 +7,7 @@
             //Exception
             //System.FormatException
             //System.DivideByZeroException
-
+        try{
             System.Console.Write("1. Sayı :");
             int sayi1 = Convert.ToInt32(Console.ReadLine());
 
@@ -16,19 +16,21 @@
 
             var sonuc = sayi1/sayi2;
 
-            Urun urun= new Urun();
-            System.Console.WriteLine(urun.urunAdi);
+            System.Console.WriteLine(sonuc);
+        }
+        // catch(FormatException){
+        //     System.Console.WriteLine("sayısal bilgileri düzgün giriniz.");
+        // }catch(DivideByZeroException){
+        //     System.Console.WriteLine("sayı sıfıra bölünemez");
+        // }
+        catch(Exception e){
+            System.Console.WriteLine($"Hata :{e.Message}");
+        }
+
 
 
 
             //Exception Handling
         }
-    }
-
-
-    class Urun{
-
-        public string urunAdi { get; set;}
-
     }
 }
