@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/12.2_GenericList/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
