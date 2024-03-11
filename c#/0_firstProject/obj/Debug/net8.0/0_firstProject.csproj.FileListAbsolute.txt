@@ -1,0 +1,15 @@
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/bin/Debug/net8.0/0_firstProject
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/bin/Debug/net8.0/0_firstProject.deps.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/bin/Debug/net8.0/0_firstProject.runtimeconfig.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/bin/Debug/net8.0/0_firstProject.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/bin/Debug/net8.0/0_firstProject.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/0_firstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/0_firstProject.AssemblyInfoInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/0_firstProject.AssemblyInfo.cs
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/0_firstProject.csproj.CoreCompileInputs.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/0_firstProject.sourcelink.json
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/0_firstProject.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/refint/0_firstProject.dll
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/0_firstProject.pdb
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/0_firstProject.genruntimeconfig.cache
+/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/Debug/net8.0/ref/0_firstProject.dll

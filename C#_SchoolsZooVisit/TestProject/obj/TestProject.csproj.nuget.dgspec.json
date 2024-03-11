@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/0_firstProject.csproj": {}
+    "/Users/berkayocer/Desktop/github/myCSharpLearning/C#_SchoolsZooVisit/TestProject/TestProject.csproj": {}
   },
   "projects": {
-    "/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/0_firstProject.csproj": {
+    "/Users/berkayocer/Desktop/github/myCSharpLearning/C#_SchoolsZooVisit/TestProject/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/0_firstProject.csproj",
-        "projectName": "0_firstProject",
-        "projectPath": "/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/0_firstProject.csproj",
+        "projectUniqueName": "/Users/berkayocer/Desktop/github/myCSharpLearning/C#_SchoolsZooVisit/TestProject/TestProject.csproj",
+        "projectName": "TestProject",
+        "projectPath": "/Users/berkayocer/Desktop/github/myCSharpLearning/C#_SchoolsZooVisit/TestProject/TestProject.csproj",
         "packagesPath": "/Users/berkayocer/.nuget/packages/",
-        "outputPath": "/Users/berkayocer/Desktop/github/myCSharpLearning/c#/0_firstProject/obj/",
+        "outputPath": "/Users/berkayocer/Desktop/github/myCSharpLearning/C#_SchoolsZooVisit/TestProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/berkayocer/.nuget/NuGet/NuGet.Config"
